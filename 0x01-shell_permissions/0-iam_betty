@@ -1,2 +1,2 @@
 #!/bin/bash
-adduser betty
+useradd -s /bin/bash betty
